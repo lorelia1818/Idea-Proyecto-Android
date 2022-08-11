@@ -60,3 +60,10 @@ Conéctate, colabora y celebra de forma segura desde cualquier lugar. Con Google
 - [Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.meetings&hl=es_CO&gl=US)
 - [Zoom](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=es_419&gl=US)
 - [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=es_CO&gl=US)
+
+## Idea 4: MyGaleria 
+
+ para ver sus fotos en una forma legible en cuadriculada o solo una foto puedes crear album y tambien editarlas. se pondra visualizar de una forma clara y dellada la foto. 
+
+
+
