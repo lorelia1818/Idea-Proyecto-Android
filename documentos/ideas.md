@@ -61,9 +61,8 @@ Conéctate, colabora y celebra de forma segura desde cualquier lugar. Con Google
 - [Zoom](https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=es_419&gl=US)
 - [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=es_CO&gl=US)
 
-## Idea 4: MyGaleria 
+## Idea 4: Pus  Zombie
 
- para ver sus fotos en una forma legible en cuadriculada o solo una foto puedes crear album y tambien editarlas. se pondra visualizar de una forma clara y dellada la foto. 
-
+la idea de este proyecto es  crear una app de juego  llamdo pus  Zombie la cual podras entretenerte con este juego de pus zombie, si eres un fanitico de las peliculas de  zombie .  Este fuego es facil de jugar y acto para niños de 6 a 11 años de edad la cual  saldra un zombie aletoriamente para tocarlo y matarlo en su tumba . 
 
 
