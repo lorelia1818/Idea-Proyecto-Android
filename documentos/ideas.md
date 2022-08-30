@@ -62,7 +62,5 @@ Conéctate, colabora y celebra de forma segura desde cualquier lugar. Con Google
 - [Discord](https://play.google.com/store/apps/details?id=com.discord&hl=es_CO&gl=US)
 
 ## Idea 4: Pus  Zombie
-
-la idea de este proyecto es  crear una app de juego  llamdo pus  Zombie la cual podras entretenerte con este juego de pus zombie, si eres un fanitico de las peliculas de  zombie .  Este fuego es facil de jugar y acto para niños de 6 a 11 años de edad la cual  saldra un zombie aletoriamente para tocarlo y matarlo en su tumba . 
-
+la idea de este proyecto es crear un juego llamado pus Zombis  en Android la cual podrás entretenerte con este juego de pus zombis, si eres un fanático de las películas de zombis. prepárate para defenderse, porque cada zombi que aparezca   te intentará comer. aleatoriamente saldrán los muertos vivientes ahora te encargas de resistir a los monstruos sin celebro. Haz clic a los zombis con tu dedo para aplastarlos y eliminarlos antes que ellos te coman.  
 
