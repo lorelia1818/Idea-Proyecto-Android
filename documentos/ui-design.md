@@ -12,4 +12,5 @@ con su respectivas app, incluyendo la de zombie.
 
 <br>
 <img  height = "700" src = "https://github.com/lorelia1818/Idea-Proyecto-Android/blob/main/documentos/imagenes/Pantalla1.jpeg>
-<br>
+ 
+ <br>
