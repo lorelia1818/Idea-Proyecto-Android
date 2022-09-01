@@ -1,24 +1,32 @@
-# Log de cambios del proyecto
+# LOG DE CAMBIO DEL PROYECTO
 
-Todos los cambios representativos del proyecto estarán documentados en este archivo.
+0.1.0
 
-0.1.0 
 # Agregado
-Proyecto inicial creado con Android Studio
+
+-Idea principal del pryecto 
+-Los mockups
+-Descripción de las funcionalidades 
+-Interfaz de usuario
+
 # Cambiado
-Formato en archivos de marcado
-0.0.3 
+
+-Idea del proyecto 
+-Mockups coregidos
+
 # Agregado
-Lista de funcionalidades de la aplicacion
-# corregido
-Errores de ortografía
-0.0.2 
-# Agregado
-Mockups de diseño de UI
-# corregido
-Errores de ortografía y algunos enlaces
-0.0.1 
-# Agregado
-Archivo Léame LÉAME.md
-Log de cambios changelog.md
-Ideas de proyecto ideas.md
+
+ -features.md 
+ -ui-design.md 
+ -Imagenes
+
+0.0.2
+
+# Se esta agregando una nueva idea para desarrollarlo finalmente
+
+-Log de cambios changelog.md
+
+Agregado *Mockups de diseño de UI
+
+Agregado -Archivo changelog changelog.md 
+-Ideas de proyecto idea.md
