@@ -8,7 +8,7 @@ En [marvelapp]_(https://marvelapp.com/prototype/70gd6ca/screen/88541210)
 
 1. Pantalla de movil 
 
-con su respectivas app, incluyendo la de zombie. El usuario da click en la appa de zombie para entrar al juego.  
+con su respectivas app, incluyendo la de zombie. El usuario da click en la app de zombie para entrar al juego.  
 
 <br>
 <img  height = "700" src = "https://github.com/lorelia1818/Idea-Proyecto-Android/blob/main/documentos/imagenes/Pantalla1.jpeg" >
