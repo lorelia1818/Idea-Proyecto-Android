@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <!---login-->
+        <Button
+            android:id="@+id/BTNLOGIN"
+            android:layout_marginTop="10dp"
+            android:background="#F44336"
+            android:text="@string/BTNLOGIN"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+        <!---Registrar-->
+        <Button
+            android:id="@+id/BTNREGISTRO"
+            android:layout_marginTop="10dp"
+            android:background="#F44336"
+            android:text="@string/BNTREGISTRO"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</RelativeLayout>
