@@ -2,6 +2,7 @@ package edu.uan.puzzombis;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.media.MediaCodec;
 import android.os.Bundle;
 import android.util.Patterns;
@@ -19,6 +20,7 @@ public class Registro extends AppCompatActivity {
     EditText correoEt,passEt,nombreEt;
     TextView fechaTxt;
     Button Registrar;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -51,10 +53,12 @@ public class Registro extends AppCompatActivity {
                     passEt.setFocusable(true);
                 }else{
                     RegistrarJugador(email,passwoerd);
+
                 }
             }
         });
     }
+    /*Metodo es para registrar un jugador*/
 
     private void RegistrarJugador(String email, String passwoerd) {
 

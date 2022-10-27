@@ -14,6 +14,7 @@
         android:gravity="center"
         android:orientation="vertical"
         android:padding="10dp">
+
         <!---login-->
         <Button
             android:id="@+id/BTNLOGIN"
@@ -23,6 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             />
+
         <!---Registrar-->
         <Button
             android:id="@+id/BTNREGISTRO"
